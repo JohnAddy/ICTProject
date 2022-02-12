@@ -5,3 +5,4 @@
 /db/#ib_*
 /db/ib*
 /db/#innodb_temp/
+/db/auto*
