@@ -27,3 +27,4 @@
 /db/performance_schema/
 /db/mysql/
 /db/#innodb_temp/
+/db/binlog.*
